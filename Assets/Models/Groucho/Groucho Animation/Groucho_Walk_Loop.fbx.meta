@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: 3623e72a86306b340aec32a0df626611
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      43: 4300000
+    second: Body
+  - first:
+      43: 4300002
+    second: Part_Eyewinker
+  - first:
+      43: 4300004
+    second: Part_Tongue
+  - first:
+      43: 4300006
+    second: Part_DownTeeth
+  - first:
+      43: 4300008
+    second: Part_R_Eye
+  - first:
+      43: 4300010
+    second: Part_L_Eye
+  - first:
+      43: 4300012
+    second: Part_UpperTeeth
+  - first:
+      43: 4300014
+    second: Eye_R
+  - first:
+      43: 4300016
+    second: Eyelib_R
+  - first:
+      43: 4300018
+    second: Eyelib_L
+  - first:
+      43: 4300020
+    second: Eye_L
+  - first:
+      74: -2574062485430094906
+    second: Walk_Loop
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iris
+    second: {fileID: 2100000, guid: 85c5f9908cf906840b2561ba496cd727, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__23(0)
+    second: {fileID: 2100000, guid: 69b8d4b5b182ffb4aa40aa5c56b5b752, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part_Cavity
+    second: {fileID: 2100000, guid: d875f75d8406fcf48a55aaf80c2a7d83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part_DownTeeth
+    second: {fileID: 2100000, guid: 6dc5436e3613cd740b798d857879a2b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part_Eyewinker
+    second: {fileID: 2100000, guid: b27c1265b76f64641aea9777a5ee2f20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part_Iris
+    second: {fileID: 2100000, guid: 785bed4f85cb83045a1cf82336af5b49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part_Lens
+    second: {fileID: 2100000, guid: 477989c4ae463b94cb6426d3d5b46459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part_Tongue
+    second: {fileID: 2100000, guid: 433b2f9816a8a8b4fb9540fc2cb9aa68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Part_UpperTeeth
+    second: {fileID: 2100000, guid: c315e24f006978c4f99f9d517db6293b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Fingernail
+    second: {fileID: 2100000, guid: 0bf330060ae277947945c49c5293e8a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Skin
+    second: {fileID: 2100000, guid: 14bc9aad4f7fb104586bb8d2952e067a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RL_Toenail
+    second: {fileID: 2100000, guid: 12d4a682e2b8aad47857d1fa25d44cd6, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
